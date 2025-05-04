@@ -20,8 +20,7 @@ Welcome to the Car Rental System project! This system is designed to streamline 
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/Athukorala99/Car_Rental_System.git
+
 2. **Open the Project in Visual Studio:**
 
     - Navigate to the project folder and open the .sln file.
@@ -51,10 +50,3 @@ Welcome to the Car Rental System project! This system is designed to streamline 
 - Implement a reporting system for generating detailed rental reports.
 - Add user authentication and role management for different access levels.
 
-## 📬 Contact
-
-If you have any questions, feel free to contact me:
-
-- **✉️ Email**: [athukoralaharith@gmail.com](mailto:athukoralaharith@gmail.com)
-- **🔗 LinkedIn**: [Harith Athukorala](https://www.linkedin.com/in/harith-a-805b84107)
-- **🐱 GitHub**: [Athukorala99](https://github.com/Athukorala99)
